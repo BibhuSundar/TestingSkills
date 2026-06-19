@@ -2,7 +2,7 @@
 name: "Test Statergy for QA"
 description: "A concise description of what this skill does (10-500 chars)."
 version: "1.0.0"
-author: "Pramod"
+author: "Bibhu"
 license: "MIT"
 tags:
   - example
