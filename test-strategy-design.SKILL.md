@@ -2,7 +2,7 @@
 name: Test Strategy Design
 description: Comprehensive test strategy design methodology covering risk-based testing, test pyramid optimization, coverage planning, environment strategy, data management, and test automation ROI analysis for enterprise and startup contexts.
 version: 1.0.0
-author: thetestingacademy
+author: abbcreation
 license: MIT
 testingTypes: [unit, integration, e2e, api, performance, security, accessibility]
 frameworks: [playwright, vitest, jest, cypress, selenium]
