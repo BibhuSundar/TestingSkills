@@ -2,7 +2,7 @@
 name: Test Plan Generation
 description: Generate comprehensive test plans with coverage matrices and risk-based testing
 version: 1.0.0
-author: thetestingacademy
+author: abbcreation
 license: MIT
 testingTypes: [e2e, integration, unit]
 languages: [typescript]
