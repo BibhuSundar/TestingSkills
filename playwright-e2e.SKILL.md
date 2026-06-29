@@ -2,7 +2,7 @@
 name: Playwright E2E Testing
 description: Comprehensive Playwright end-to-end testing patterns with Page Object Model, fixtures, and best practices
 version: 1.0.0
-author: thetestingacademy
+author: abbcreation
 license: MIT
 testingTypes: [e2e, visual]
 frameworks: [playwright]
